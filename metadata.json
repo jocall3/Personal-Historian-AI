@@ -1,0 +1,8 @@
+{
+  "name": "Personal Historian AI",
+  "description": "An interactive, intelligent diary with a super-powered memory, designed to help you collect, organize, and understand your digital life through agentic AI, digital identity, and a token economy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
